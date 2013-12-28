@@ -1,0 +1,15 @@
+<?php
+echo'
+<b>Jadwal Ibadah Agama Budha</b><br>
+agama Buddha juga mengajarkan tata cara peribadatan, yang biasanya disebut sebagai puja. Pelajaran ini merupakan ajaran dasar dari agama Buddha karena akan mengajarkan kepada umat tentang tata cara melaksanakan ibadah.<br>
+Istilah ‘puja’ berarti menghormat atau memuja, dan mengacu pada upacara sebagai sarana untuk menguatkan dan menuangkan keyakinan serta mengingatkan kita sehari-hari akan janji kita pada Tiratana – Tiga Permata; Buddha, Dhamma serta Sangha. Ada pendapat yang menganggap ‘puja’ adalah ‘suatu upacara ritual tak berarti’, berdasar pengertian bahwa dalam agama Buddha, tidak diakui adanya makhluk-agung atau dewa-agung yang padanya kita harus bermohon dan dengan demikian upacara adalah mubazir.<br>
+Pandangan diatas jelas salah.<br>
+Pertama, tidak ada upacara yang ‘tak punya arti’ bila kita berusaha mencari makna artinya.
+kedua, keikutsertaan dalam upacara tidak perlu bertentangan dengan keberadaan kita sebagai manusia yang kritis. Upacara ritual memang ganjil bila dikaitkan dengan ilmu gaib, tapi upacara agama Buddha bukanlah hal yang demikian. Pelaksanaan ‘puja’ mempunyai nilai yang tinggi karena mampu menguatkan keyakinan dan menanamkan pengertian yang khusus dalam batin kita.
+Pemujaan (pelaksana Puja) bukan keharusan dalam pelaksanaan keagamaan Buddha, tapi karena sebagian besar orang dapat melihat dampak positif-nya, maka kita akan mempelajari arti dan pelaksanaannya secara terinci. Ada bermacam-macam cara pemujaan tergantung budaya dimana tata pemujaan itu berkembang, ada yang sederhana dan anggun, ada yang rumit dan ramai. Mari kita teliti Nava Puja. Istilah ‘nava‘ berarti ‘baru’ dan juga berarti ‘sembilan’, karena Nava Puja adalah penyesuaian moderen dari Puja Buddha yang kuno di Sri Lanka, dan karena Nava Puja terdiri atas sembilan bagian. Seperti ‘puja’ yang lain, maka Nava Puja dapat dilaksanakan dalam bahasa sehari-hari kita ataupun dalam bahasa Pali.<br>
+Pemujaan paling tepat dilakukan di depan meja-sembahyang (Inggris: shrine) di vihara ataupun di rumah. Ada umat yang salah mengartikan dengan menyamakan serta menyebut meja-sembahyang dirumahnya sebagai ‘altar’. Pada kenyataannya secara harfiah, altar berarti tempat pelaksanaan korban, yang tentunya tidaklah tepat untuk menggambarkan meja-sembahyang agama Buddha. Meja-sembahyang terdiri dari suatu meja atau panggung yang agak ditinggikan, yang diatasnya diletakkan patung Buddha (Buddha rupa) dan obyek-obyek lain yang digunakan pada pemujaan tersebut.<br>
+Meja-sembahyang secara estetis hendaknya terawat, menyenangkan dan senantiasa rapih. Pada dasarnya, kita hendaknya merawat meja-sembahyang seperti hati kita – bersih, indah dan rapih. Meja-sembahyang hendaknya dibersihkan setiap hari dari debu, abu dupa dan guguran bunga. Meja-sembahyang hendaknya indah, ditempati peralatan sembahyang terbaik, diletakkan simetris agar baik dipandang mata. Lebih jauh, meja-sembahyang hendaknya tidak menjadi kacau karena adanya foto-foto para bhikkhu, guru kebatinan, patung dewa-dewa Tao ataupun segala macam obyek yang tak ada hubungannya dengan puja.<br>
+
+<a href="index.php">Kembali</a>
+';
+?>
